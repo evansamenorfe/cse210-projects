@@ -1,0 +1,2 @@
+Date,Prompt,Response
+01/19/2024,What would you like to do more of in your daily life and how do you plan to achieve it? ,Read a book for an hour daily
