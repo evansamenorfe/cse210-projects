@@ -7,7 +7,14 @@ namespace DailyScripture
         
         static void Main()
         {
+            //(Exceeding core requirements)
             
+            //Created a text file that program could load random scriptures from()
+            //  LoadScripturesFromFile("scriptures.txt");
+
+            // Console.WriteLine("Welcome to Scripture Memorization Program!");
+            // Console.WriteLine("Press Enter to display a random scripture, or type 'quit' to exit.");
+
             Scripture scripture = new Scripture("3 Nephi ", 5, 13, "Behold, I am a disciple of Jesus Christ, the Son of God. I have been called of him to declare his word among his people, that they might have everlasting life. ");
             Console.Clear();
             scripture.Display(); 
